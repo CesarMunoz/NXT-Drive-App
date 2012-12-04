@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+    <property name="acs-oauth-secret-production" type="string">p9LWD6huIQnuljIC0RNA6TEfnDCyh1dh</property>
+    <property name="acs-oauth-key-production" type="string">gYaP6ZPFG7IxmJzlwtYgvEnEUUhz6dL3</property>
+    <property name="acs-api-key-production" type="string">LS2omQUAUmwu8toBYTahw8HjDxaWwGUi</property>
+    <property name="acs-oauth-secret-development" type="string">mRWKFCa4bTFwJzeH7oQpwrfuTWN4S1aq</property>
+    <property name="acs-oauth-key-development" type="string">l57d24ZRew7PMUUkb9ON5pO7hmIYllqm</property>
+    <property name="acs-api-key-development" type="string">qKJfJggJpL2rFH9MU1VNYSkODMOyPMWX</property>
+    <deployment-targets>
+        <target device="mobileweb">false</target>
+        <target device="iphone">true</target>
+        <target device="ipad">true</target>
+        <target device="android">true</target>
+        <target device="blackberry">false</target>
+    </deployment-targets>
+    <sdk-version>2.0.2.GA</sdk-version>
+    <id>com.cesarmunoz.nxtsimplebotdriver</id>
+    <name>NXT Drive</name>
+    <version>1.0</version>
+    <publisher>Cesar</publisher>
+    <url>http://cesarmunoz.com</url>
+    <description>Demo app to drive simple NXT Mindstorms LEGO model</description>
+    <copyright>2012 by Cesar</copyright>
+    <icon>NXT_Logo.png</icon>
+    <persistent-wifi>false</persistent-wifi>
+    <prerendered-icon>false</prerendered-icon>
+    <statusbar-style>default</statusbar-style>
+    <statusbar-hidden>false</statusbar-hidden>
+    <fullscreen>false</fullscreen>
+    <navbar-hidden>false</navbar-hidden>
+    <analytics>true</analytics>
+    <guid>8162562e-d1b2-4541-b5dd-388378444cce</guid>
+    <property name="ti.ui.defaultunit">system</property>
+    <iphone>
+        <orientations device="iphone">
+            <orientation>Ti.UI.PORTRAIT</orientation>
+        </orientations>
+        <orientations device="ipad">
+            <orientation>Ti.UI.PORTRAIT</orientation>
+            <orientation>Ti.UI.UPSIDE_PORTRAIT</orientation>
+            <orientation>Ti.UI.LANDSCAPE_LEFT</orientation>
+            <orientation>Ti.UI.LANDSCAPE_RIGHT</orientation>
+        </orientations>
+    </iphone>
+    <android xmlns:android="http://schemas.android.com/apk/res/android"/>
+    <mobileweb>
+        <precache/>
+        <splash>
+            <enabled>true</enabled>
+            <inline-css-images>true</inline-css-images>
+        </splash>
+        <theme>default</theme>
+    </mobileweb>
+    <modules>
+        <module platform="commonjs" version="2.0.5">ti.cloud</module>
+    </modules>
+</ti:app>

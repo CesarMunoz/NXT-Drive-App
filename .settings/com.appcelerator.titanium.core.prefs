@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+provisioning_profiles/distribution/21E591DA-EA27-4D72-85C8-B9D89BCAD574/appid=com.cesarmunoz.nxtsimplebotdriver
+provisioning_profiles/distribution/21E591DA-EA27-4D72-85C8-B9D89BCAD574/filepath=/Users/Cesar/Library/MobileDevice/Provisioning Profiles/21E591DA-EA27-4D72-85C8-B9D89BCAD574.mobileprovision
+provisioning_profiles/distribution/21E591DA-EA27-4D72-85C8-B9D89BCAD574/name=NXT Simple Bot Driver
+provisioning_profiles/distribution/21E591DA-EA27-4D72-85C8-B9D89BCAD574/uuid=21E591DA-EA27-4D72-85C8-B9D89BCAD574
+provisioning_profiles/distribution/66ED460D-64EA-4708-AFD6-B8218697BBC9/appid=*
+provisioning_profiles/distribution/66ED460D-64EA-4708-AFD6-B8218697BBC9/filepath=/Users/Cesar/Library/MobileDevice/Provisioning Profiles/66ED460D-64EA-4708-AFD6-B8218697BBC9.mobileprovision
+provisioning_profiles/distribution/66ED460D-64EA-4708-AFD6-B8218697BBC9/name=iOS Team Provisioning Profile\: *
+provisioning_profiles/distribution/66ED460D-64EA-4708-AFD6-B8218697BBC9/uuid=66ED460D-64EA-4708-AFD6-B8218697BBC9
+provisioning_profiles/distribution/FCCB9856-4986-4401-BC0B-A3E0525ECBCF/appid=com.cesarmunoz.nxtsimplebotdriver
+provisioning_profiles/distribution/FCCB9856-4986-4401-BC0B-A3E0525ECBCF/filepath=/Users/Cesar/Library/MobileDevice/Provisioning Profiles/FCCB9856-4986-4401-BC0B-A3E0525ECBCF.mobileprovision
+provisioning_profiles/distribution/FCCB9856-4986-4401-BC0B-A3E0525ECBCF/name=Simple NXT Driver
+provisioning_profiles/distribution/FCCB9856-4986-4401-BC0B-A3E0525ECBCF/uuid=FCCB9856-4986-4401-BC0B-A3E0525ECBCF
